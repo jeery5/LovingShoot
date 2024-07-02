@@ -1,4 +1,5 @@
 ## Something Special Repository
-Credit
--Jeery5
--
+
+### Credit
+* Jeery5
+
